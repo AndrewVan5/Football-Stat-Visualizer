@@ -360,13 +360,13 @@ def main():
                 "Enter Your Choice Here: ").strip()
 
             if choice == "1":
-                filename = "whitecaps_sample_data.json"
+                filename = "data/whitecaps_sample_data.json"
                 break
             elif choice == "2":
-                filename = "chelsea_sample_data.json"
+                filename = "data/chelsea_sample_data.json"
                 break
             elif choice == "3":
-                filename = "manunited_sample_data.json"
+                filename = "data/manunited_sample_data.json"
                 break
             else:
                 print("Invalid Input, Try Again.")
@@ -427,4 +427,5 @@ def main():
     pygame.quit()
 
 if __name__ == "__main__":
+
     main()
