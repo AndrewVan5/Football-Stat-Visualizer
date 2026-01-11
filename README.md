@@ -34,12 +34,12 @@ The data can either be retrieved from API-Football (with a valid API key) or fro
 ## Controls
 
 Once in the Visual Window:
-    R: Reloads data back to original state
-    SPACE: After setting sorting algorithm, begins sorting (Bubble Sort is default)
-    A: Sets sorting order to Ascending
-    D: Sets sorting order to Descending
-    I: Sets sorting algorithm to Insertion Sort
-    B: Sets sorting algorithm to Bubble Sort
+- R: Reloads data back to original state
+- SPACE: After setting sorting algorithm, begins sorting (Bubble Sort is default)
+- A: Sets sorting order to Ascending
+- D: Sets sorting order to Descending
+- I: Sets sorting algorithm to Insertion Sort
+- B: Sets sorting algorithm to Bubble Sort
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
