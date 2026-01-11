@@ -1,0 +1,12 @@
+{
+    "team": "Vancouver Whitecaps",
+    "season": 2022,
+    "players": [
+      { "name": "P. Vite", "goals": 6 },
+      { "name": "B. White", "goals": 18 },
+      { "name": "T. Blackmon", "goals": 3 },
+      { "name": "R. Gauld", "goals": 11 },
+      { "name": "J. Brown", "goals": 1 }
+
+    ]
+  }

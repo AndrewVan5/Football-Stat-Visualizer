@@ -1,0 +1,27 @@
+{
+    "team": "Chelsea",
+    "season": 2024,
+    "players": [
+      { "name": "P. Neto", "goals": 6 },
+      { "name": "N. Madueke", "goals": 10 },
+      { "name": "M. Cucarella", "goals": 7 },
+      { "name": "N. Jackson", "goals": 13 },
+      { "name": "L. Colwell", "goals": 2 },
+      { "name": "J. Sancho", "goals": 5 },
+      { "name": "R. James", "goals": 2 },
+      { "name": "C. Palmer", "goals": 15 },
+      { "name": "C. Nkunku", "goals": 12 },
+      { "name": "J. Felix", "goals": 7 },
+      { "name": "R. Veiga", "goals": 2 },
+      { "name": "M. Mudryk", "goals": 3 },
+      { "name": "E. Fernandez", "goals": 8 },
+      { "name": "M. Guiu", "goals": 6 },
+      { "name": "T. Adarabioyo", "goals": 4 },
+      { "name": "L. Colwill", "goals": 3 },
+      { "name": "T. George", "goals": 2 },
+      { "name": "R. Sanchez", "goals": 1 },
+      { "name": "K. Dewsbury-Hall", "goals": 4 },
+      { "name": "A. Disasi", "goals": 2 },
+      { "name": "M. Caicedo", "goals": 2 }
+    ]
+  }
